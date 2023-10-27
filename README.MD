@@ -3,7 +3,7 @@
 ## Introduction
 This is a small project wrote for the 5RC-IN1 Python Module. It includes various little security tools to generate passwords and passphrases and check their strength.
 
-**DISCLAIMER none of the tools in this suite are likely to be cryptographically secure. Use at your own risk.**
+**IMPORTANT : none of the tools in this suite are likely to be cryptographically secure. Use at your own risk.**
 
 ## Usage 
 Requires `python3` with `math`, `sys` and `random`
